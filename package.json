@@ -2,7 +2,7 @@
     "name": "my-weather",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://github.com/Jen041794/new_weather_app",
+    "homepage": "https://Jen041794.github.io/new_weather_app",
     "dependencies": {
         "lucide-react": "^0.577.0",
         "react": "^19.2.4",
