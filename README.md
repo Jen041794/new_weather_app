@@ -1,7 +1,9 @@
 # 🌦️ 台灣極簡氣象查詢 (Minimalist Taiwan Weather App)
 
 這是一個基於 **React** 開發的極簡風天氣查詢網頁。透過串接 **中央氣象署 (CWA)** 的開放 API，提供台灣各縣市的即時預報資料，並根據降雨機率動態改變網頁視覺風格。
-
+---
+[web-demo](https://jen041794.github.io/new_weather_app/)
+---
 ## 🚀 核心功能
 
 - **即時資料同步**：串接中央氣象署 `F-C0032-001` API，獲取 24 小時內天氣預報。
